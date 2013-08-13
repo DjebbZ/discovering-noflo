@@ -3,4 +3,4 @@ Discovering NoFlo
 
 I'm just playing with it.
 
-MIT License (haha).
+Released under the MIT License.
