@@ -1,0 +1,23 @@
+{
+  "name": "noflo-test",
+  "version": "0.0.0",
+  "description": "Discovering noflo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "./node_modules/.bin/noflo -i"
+  },
+  "repository": "",
+  "keywords": [
+    "noflo",
+    "fbp",
+    "learning"
+  ],
+  "author": "Khalid Jebbari",
+  "license": "MIT",
+  "dependencies": {
+    "noflo": "~0.4.0",
+    "noflo-core": "~0.1.1",
+    "noflo-filesystem": "~1.0.2"
+  }
+}

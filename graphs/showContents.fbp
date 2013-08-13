@@ -1,0 +1,3 @@
+Read(filesystem/ReadFile) OUT -> IN Log(core/Output)
+
+'package.json' -> IN Read()
